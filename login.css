@@ -2,17 +2,11 @@ fieldset{
     text-align: center;
     margin-left: 300px;
     margin-right: 300px;
-    margin-top: 200px;
+    margin-top: 150px;
 }
-
 h1{
-    color: green;
+    color:blueviolet;
 }
-
-p{
-    color: purple;
-}
-
 button{
-    padding: 5px;
+    padding: 10px;
 }
